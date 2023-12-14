@@ -30,13 +30,13 @@ Enjoy a visually pleasing experience with support for dark mode, ensuring comfor
 To get started with the Flutter ToDo App:
 
 Clone the repository: git clone [ https://github.com/your-username/flutter-todo-app.git](https://github.com/Dilyorbekabdullajonov/newappf.git)
-Navigate to the project directory: cd flutter-todo-app
-Install dependencies: flutter pub get
-Run the app: flutter run
+Navigate to the project directory (in project terminal): cd flutter-todo-app
+Install dependencies (in project terminal): flutter pub get
+Run the app (in project terminal): flutter run
 Contributions
 Contributions are welcome! If you have suggestions, bug reports, or would like to contribute to the project, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 License
-This Flutter ToDo App is open-source and licensed under the MIT License.
+This Flutter ToDo App is open-source and licensed under the SE-1 group students 🤭 License.
 
 Start organizing your tasks efficiently with the Flutter ToDo App today!
