@@ -29,7 +29,7 @@ Enjoy a visually pleasing experience with support for dark mode, ensuring comfor
 # Getting Started
 To get started with the Flutter ToDo App:
 
-Clone the repository: git clone https://github.com/your-username/flutter-todo-app.git
+Clone the repository: git clone [ https://github.com/your-username/flutter-todo-app.git](https://github.com/Dilyorbekabdullajonov/newappf.git)
 Navigate to the project directory: cd flutter-todo-app
 Install dependencies: flutter pub get
 Run the app: flutter run
