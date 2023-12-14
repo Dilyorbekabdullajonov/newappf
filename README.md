@@ -31,6 +31,16 @@ Organize your tasks by assigning them to different categories. Whether it's work
 5. Dark Mode Support
 Enjoy a visually pleasing experience with support for dark mode, ensuring comfort for users in various lighting conditions.
 
+__#Fronted:__
+- Flutter Framework(Dart)
+- Some Widgets from [pub.dev]
+
+__#Backend:__
+- Backend: Dart Programming Language
+- DataBase: SQLite
+
+
+
 # Getting Started
 To get started with the Flutter ToDo App:
 
