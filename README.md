@@ -2,7 +2,7 @@
 __`Flutter ToDo App with CRUD and SQLite Database`__
 
 __`Overview`__
-The Flutter ToDo App is a versatile and efficient task management application built with Flutter, a UI toolkit from Google. This app allows users to organize their tasks seamlessly with CRUD operations (Create, Read, Update, Delete) and stores task data using an SQLite database.
+The Flutter ToDo App is a versatile and efficient task management application built with Flutter, a UI toolkit from Google. This app allows users to organize their tasks seamlessly with CRUD operations (Create, Read, Update, Delete) and stores task data using an SQLite database. This app was inpired from real (HabitNow)app but with minimalistic design and features.
 
 __`Features`__
 1. Intuitive User Interface
