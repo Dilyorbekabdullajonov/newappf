@@ -33,7 +33,7 @@ Enjoy a visually pleasing experience with support for dark mode, ensuring comfor
 
 __#Fronted:__
 - Flutter Framework(Dart)
-- Some Widgets from ![pub.dev](https://pub.dev/)
+- Some Widgets from [pub.dev](https://pub.dev/)
 
 __#Backend:__
 - Backend: Dart Programming Language
