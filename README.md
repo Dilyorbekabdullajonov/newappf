@@ -59,8 +59,10 @@ Start organizing your tasks efficiently with the Flutter ToDo App today!
 
 
 # Team Members: 
-`Abdullhayev Jayhuntilla SE 12521
-Turdiqulov Javohir SE 12405
-Abdullajonov Dilyorbek SE 12516
-Khayitboyev Mavlonbek SE 12497
-`
+`Abdullhayev Jayhuntilla SE 12521`
+
+`Turdiqulov Javohir SE 12405`
+
+`Abdullajonov Dilyorbek SE 12516`
+
+`Khayitboyev Mavlonbek SE 12497`
